@@ -22,3 +22,4 @@ filetype plugin on
 "ctrl + h 取消高亮查询
 nnoremap <C-h> :nohlsearch<Enter>
 nnoremap <Tab> gt
+nnoremap <S-Tab> gT
